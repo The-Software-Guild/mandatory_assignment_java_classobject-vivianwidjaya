@@ -1,0 +1,11 @@
+Mean Girls,12121999,18,Terry,HBO,Yow
+Legally Blonde,10042015,18,James,AMG,Excellent
+HunterxHunter,2031983,12,Togashi Toyama,Toei,Good
+Eat,20032023,18,Jack Hensen,Unknown,Disturbing
+Squid Game,17092021,17,Hwang Dong-hyuk,Unknown,Scary
+The Shallows,12082016,13,Jaume Collet-Serra,Unknown,Good
+Boruto The Movie,1022023,13,Makoto Shinkai,Unknown,Excellent
+Jaws,1011979,15,Spielberg,Warner,A biteful
+Salt,18092010,13,Phillip Noyce,Unknown,Good
+Bird box,21122018,17,Susanne Bier,Unknown,Good
+Spiderman,5052019,16,Hakuna,Matata,not bad at all
